@@ -759,7 +759,7 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Chandan Maurya</h4>
+                <h4>Chandan Kumar</h4>
                 <span>Software develoer</span>
                 <p>Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates enim aut architecto porro aspernatur molestiae modi.</p>
               </div>
